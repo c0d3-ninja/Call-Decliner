@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Vandumurugan Call Decliner</string>
+    <string name="contains">Contains</string>
+    <string name="equals">Equals</string>
+    <string name="starts_with">Starts with</string>
+    <string name="ends_with">Ends with</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="allow_permissions_to_avoid_unwanted_calls">Allow permission to decline unwanted calls</string>
+    <string name="allow_permissions">Allow permissions</string>
+    <string name="no_entries_found">No entries found</string>
+    <string name="call_dec_service_enabled">Call declining service enabled</string>
+    <string name="call_dec_service_disabled">Call declining service disabled</string>
+    <string name="declined_notification">Declined Notification</string>
+    <string name="call_declined_because_the_number">Call declined,because the number</string>
+    <string name="cancel">Cancel</string>
+    <string name="incoming_call">Incoming call</string>
+</resources>
